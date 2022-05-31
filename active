@@ -1,0 +1,203 @@
+{
+    "status": "success",
+    "code": "already_activated",
+    "message": "License for site tripsupport.ca/ is already activated",
+    "log": [
+        { "type": "info", "message": "Crocoblock Api. Check license request success" },
+        { "type": "info", "message": "Croco license data has been synced" },
+        { "type": "error", "message": "Primary license for site tripsupport.ca/ is already activated" }
+    ],
+    "data": {
+        "license": "elementorfa",
+        "type": "crocoblock",
+        "product_name": "Unlimited",
+        "product_slug": "Unlimited",
+        "product_category": "all-inclusive",
+        "expire": "Lifetime",
+        "activation_limit": 1,
+        "plugins": {
+            "jet-elements/jet-elements.php": {
+                "name": "JetElements",
+                "slug": "jet-elements/jet-elements.php",
+                "version": "2.5.8",
+                "thumb": "https://account.crocoblock.com/free-download/images/jetlogo/jetelements.svg",
+                "thumb_alt": "https://account.crocoblock.com/free-download/images/jetlogo-alt/jetelements.svg",
+                "docs": "https://crocoblock.com/knowledge-base/article-category/jet-elements/",
+                "demo": "https://crocoblock.com/plugins/jetelements/",
+                "desc": "Must-have design widgets"
+            },
+            "jet-tabs/jet-tabs.php": {
+                "name": "JetTabs",
+                "slug": "jet-tabs/jet-tabs.php",
+                "version": "2.1.13",
+                "thumb": "https://account.crocoblock.com/free-download/images/jetlogo/jettabs.svg",
+                "thumb_alt": "https://account.crocoblock.com/free-download/images/jetlogo-alt/jettabs.svg",
+                "docs": "https://crocoblock.com/knowledge-base/article-category/jet-tabs/",
+                "demo": "https://crocoblock.com/plugins/jettabs/",
+                "desc": "A smart way to organize content"
+            },
+            "jet-reviews/jet-reviews.php": {
+                "name": "JetReviews",
+                "slug": "jet-reviews/jet-reviews.php",
+                "version": "2.2.2",
+                "thumb": "https://account.crocoblock.com/free-download/images/jetlogo/jetreviews.svg",
+                "thumb_alt": "https://account.crocoblock.com/free-download/images/jetlogo-alt/jetreviews.svg",
+                "docs": "https://crocoblock.com/knowledge-base/article-category/jetreviews/",
+                "demo": "https://crocoblock.com/plugins/jetreviews/",
+                "desc": "Add reviews, comments, and rates"
+            },
+            "jet-menu/jet-menu.php": {
+                "name": "JetMenu",
+                "slug": "jet-menu/jet-menu.php",
+                "version": "2.0.9",
+                "thumb": "https://account.crocoblock.com/free-download/images/jetlogo/jetmenu.svg",
+                "thumb_alt": "https://account.crocoblock.com/free-download/images/jetlogo-alt/jetmenu.svg",
+                "docs": "https://crocoblock.com/knowledge-base/article-category/jet-menu/",
+                "demo": "https://crocoblock.com/plugins/jetmenu/",
+                "desc": "Build a custom mega menu"
+            },
+            "jet-blog/jet-blog.php": {
+                "name": "JetBlog",
+                "slug": "jet-blog/jet-blog.php",
+                "version": "2.2.14",
+                "thumb": "https://account.crocoblock.com/free-download/images/jetlogo/jetblog.svg",
+                "thumb_alt": "https://account.crocoblock.com/free-download/images/jetlogo-alt/jetblog.svg",
+                "docs": "https://crocoblock.com/knowledge-base/article-category/jet-blog/",
+                "demo": "https://crocoblock.com/plugins/jetblog/",
+                "desc": "Create engaging blog pages"
+            },
+            "jet-blocks/jet-blocks.php": {
+                "name": "JetBlocks",
+                "slug": "jet-blocks/jet-blocks.php",
+                "version": "1.2.9",
+                "thumb": "https://account.crocoblock.com/free-download/images/jetlogo/jetblocks.svg",
+                "thumb_alt": "https://account.crocoblock.com/free-download/images/jetlogo-alt/jetblocks.svg",
+                "docs": "https://crocoblock.com/knowledge-base/article-category/jetblocks/",
+                "demo": "https://crocoblock.com/plugins/jetblocks/",
+                "desc": "Enrich header & footer content"
+            },
+            "jet-tricks/jet-tricks.php": {
+                "name": "JetTricks",
+                "slug": "jet-tricks/jet-tricks.php",
+                "version": "1.3.8",
+                "thumb": "https://account.crocoblock.com/free-download/images/jetlogo/jettricks.svg",
+                "thumb_alt": "https://account.crocoblock.com/free-download/images/jetlogo-alt/jettricks.svg",
+                "docs": "https://crocoblock.com/knowledge-base/article-category/jettricks/",
+                "demo": "https://crocoblock.com/plugins/jettricks/",
+                "desc": "Add interactive visual effects"
+            },
+            "jet-smart-filters/jet-smart-filters.php": {
+                "name": "JetSmartFilters",
+                "slug": "jet-smart-filters/jet-smart-filters.php",
+                "version": "2.3.1",
+                "thumb": "https://account.crocoblock.com/free-download/images/jetlogo/jetsmartfilters.svg",
+                "thumb_alt": "https://account.crocoblock.com/free-download/images/jetlogo-alt/jetsmartfilters.svg",
+                "docs": "https://crocoblock.com/knowledge-base/article-category/jetsmartfilters/",
+                "demo": "https://crocoblock.com/plugins/jetsmartfilters/",
+                "desc": "Advanced filters for any post type"
+            },
+            "jet-popup/jet-popup.php": {
+                "name": "JetPopup",
+                "slug": "jet-popup/jet-popup.php",
+                "version": "1.5.4",
+                "thumb": "https://account.crocoblock.com/free-download/images/jetlogo/jetpopup.svg",
+                "thumb_alt": "https://account.crocoblock.com/free-download/images/jetlogo-alt/jetpopup.svg",
+                "docs": "https://crocoblock.com/knowledge-base/article-category/jet-popup/",
+                "demo": "https://crocoblock.com/plugins/jetpopup/",
+                "desc": "Create popups that boost sales"
+            },
+            "jet-search/jet-search.php": {
+                "name": "JetSearch",
+                "slug": "jet-search/jet-search.php",
+                "version": "2.1.12",
+                "thumb": "https://account.crocoblock.com/free-download/images/jetlogo/jetsearch.svg",
+                "thumb_alt": "https://account.crocoblock.com/free-download/images/jetlogo-alt/jetsearch.svg",
+                "docs": "https://crocoblock.com/knowledge-base/article-category/jet-search/",
+                "demo": "https://crocoblock.com/plugins/jetsearch/",
+                "desc": "Try the fastest AJAX search"
+            },
+            "jet-woo-builder/jet-woo-builder.php": {
+                "name": "JetWooBuilder",
+                "slug": "jet-woo-builder/jet-woo-builder.php",
+                "version": "1.9.2",
+                "thumb": "https://account.crocoblock.com/free-download/images/jetlogo/jetwoobuilder.svg",
+                "thumb_alt": "https://account.crocoblock.com/free-download/images/jetlogo-alt/jetwoobuilder.svg",
+                "docs": "https://crocoblock.com/knowledge-base/article-category/jetwoobuilder/",
+                "demo": "https://crocoblock.com/plugins/jetwoobuilder/",
+                "desc": "Create custom e-commerce pages"
+            },
+            "jet-woo-product-gallery/jet-woo-product-gallery.php": {
+                "name": "JetProductGallery",
+                "slug": "jet-woo-product-gallery/jet-woo-product-gallery.php",
+                "version": "2.0.1",
+                "thumb": "https://account.crocoblock.com/free-download/images/jetlogo/jetproductgallery.svg",
+                "thumb_alt": "https://account.crocoblock.com/free-download/images/jetlogo-alt/jetproductgallery.svg",
+                "docs": "https://crocoblock.com/knowledge-base/article-category/jetproductgallery/",
+                "demo": "https://crocoblock.com/plugins/jetproductgallery/",
+                "desc": "Product gallery sliders and carousels "
+            },
+            "jet-compare-wishlist/jet-cw.php": {
+                "name": "JetCompare&Wishlist",
+                "slug": "jet-compare-wishlist/jet-cw.php",
+                "version": "1.3.5",
+                "thumb": "https://account.crocoblock.com/free-download/images/jetlogo/jetwoocomparewishlist.svg",
+                "thumb_alt": "https://account.crocoblock.com/free-download/images/jetlogo-alt/jetcomparewishlist.svg",
+                "docs": "https://crocoblock.com/knowledge-base/article-category/jetcomparewishlist/",
+                "demo": "https://crocoblock.com/plugins/jetcomparewishlist/",
+                "desc": "Compare and wishlist functionality"
+            },
+            "jet-engine/jet-engine.php": {
+                "name": "JetEngine",
+                "slug": "jet-engine/jet-engine.php",
+                "version": "2.8.6",
+                "thumb": "https://account.crocoblock.com/free-download/images/jetlogo/jetengine.svg",
+                "thumb_alt": "https://account.crocoblock.com/free-download/images/jetlogo-alt/jetengine.svg",
+                "docs": "https://crocoblock.com/knowledge-base/article-category/jet-engine/",
+                "demo": "https://crocoblock.com/plugins/jetengine/",
+                "desc": "Top-notch plugin for dynamic content"
+            },
+            "jet-booking/jet-booking.php": {
+                "name": "JetBooking",
+                "slug": "jet-booking/jet-booking.php",
+                "version": "2.2.4",
+                "thumb": "https://account.crocoblock.com/free-download/images/jetlogo/jetbooking.svg",
+                "thumb_alt": "https://account.crocoblock.com/free-download/images/jetlogo-alt/jetbooking.svg",
+                "docs": "https://crocoblock.com/knowledge-base/article-category/jetbooking/",
+                "demo": "https://crocoblock.com/plugins/jetbooking/",
+                "desc": "Complex booking functionality"
+            },
+            "jet-style-manager/jet-style-manager.php": {
+                "name": "JetStyleManager",
+                "slug": "jet-style-manager/jet-style-manager.php",
+                "version": "1.3.0",
+                "thumb": "https://account.crocoblock.com/free-download/images/jetlogo/jetstylemanager.svg",
+                "thumb_alt": "https://account.crocoblock.com/free-download/images/jetlogo-alt/jetstylemanager.svg",
+                "docs": "https://crocoblock.com/knowledge-base/article-category/jetstylemanager/",
+                "demo": "https://crocoblock.com/plugins/jetstylemanager/",
+                "desc": "Manage Elementor page style settings"
+            },
+            "jet-appointments-booking/jet-appointments-booking.php": {
+                "name": "JetAppointment",
+                "slug": "jet-appointments-booking/jet-appointments-booking.php",
+                "version": "1.5.0",
+                "thumb": "https://account.crocoblock.com/free-download/images/jetlogo/jet-appointment.svg",
+                "thumb_alt": "https://account.crocoblock.com/free-download/images/jetlogo-alt/jet-appointment.svg",
+                "docs": "https://crocoblock.com/knowledge-base/article-category/jetappointment/",
+                "demo": "https://crocoblock.com/plugins/jetappointment/",
+                "desc": "Create custom appointment forms"
+            },
+            "jet-theme-core/jet-theme-core.php": {
+                "name": "JetThemeCore",
+                "slug": "jet-theme-core/jet-theme-core.php",
+                "version": "1.2.2",
+                "thumb": "https://account.crocoblock.com/free-download/images/jetlogo/jetthemecore.svg",
+                "thumb_alt": "https://account.crocoblock.com/free-download/images/jetlogo-alt/jetthemecore.svg",
+                "docs": "https://crocoblock.com/knowledge-base/article-category/theme-parts/",
+                "demo": "https://crocoblock.com/plugins/jetthemecore/",
+                "desc": "Design the entire site with a theme builder "
+            }
+        },
+        "sites": ["tripsupport.ca/"],
+        "permissions": { "update_plugin": true, "install_plugin": true }
+    }
+}
